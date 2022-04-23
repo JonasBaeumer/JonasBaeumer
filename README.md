@@ -18,10 +18,7 @@ I like to explore and learn new things, experiment, and craft code.
                                 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
                     </p>
                     
-### Socials
-                  
-                  
-<p align="left">
+### Socials<p align="left">
                           
                       <a href="https://www.github.com/JonasBaeumer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
                           
