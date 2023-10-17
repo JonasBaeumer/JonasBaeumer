@@ -1,7 +1,7 @@
 Hi 👋 My name is Jonas Bäumer
 =============================
 
-Information Systems Student (B.Sc) @Technical University Munich
+Information Systems Student (M.Sc) @Technical University Munich
 ---------------------------------------------------------------
 
 I like to explore and learn new things, experiment, and craft code.
