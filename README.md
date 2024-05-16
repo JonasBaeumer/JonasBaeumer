@@ -1,14 +1,10 @@
-Hi 👋 My name is Jonas Bäumer
+Hi 👋 My name is Jonas
 =============================
 
 Information Systems Student (M.Sc) @Technical University Munich
 ---------------------------------------------------------------
 
 I like to explore and learn new things, experiment, and craft code.
-
-* 🌍  I'm based in Munich
-* ✉️  You can contact me at [jbaeumer98@yahoo.de](mailto:jbaeumer98@yahoo.de)
-* 🤝  I'm open to collaborating on Software Engineering Projects, in particular Algo Trading and REST API Broker Interfaces for automating processes.
 
 ### Skills
 
