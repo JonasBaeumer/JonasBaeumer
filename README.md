@@ -1,7 +1,7 @@
 Hi 👋 My name is Jonas
 =============================
 
-Information Systems Student (M.Sc) @Technical University Munich
+Information Systems Student (M.Sc) @Technical University Munic
 ---------------------------------------------------------------
 
 ![](https://raw.githubusercontent.com/JonasBaeumer/GitHubRepoStats/master/generated/overview.svg#gh-dark-mode-only)
