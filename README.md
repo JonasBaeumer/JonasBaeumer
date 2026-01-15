@@ -1,7 +1,7 @@
 Hi 👋 My name is Jonas
 =============================
 
-Information Systems Student (M.Sc) @Technical University Munich
+Information Systems Student (M.Sc) @Technical University Munic
 ---------------------------------------------------------------
 
 <p align="center">
